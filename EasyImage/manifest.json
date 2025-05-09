@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "version": "0.0.0",
+  "extensions": [
+    {
+      "name": "EasyImageExtension",
+      "title": "EasyImageExtension",
+      "products": [
+        "chart",
+        "spark",
+        "teamspaces"
+      ],
+      "codePath": "editorextensions/EasyImageExtension/bin/extension.js",
+      "scopes": [
+        "READ",
+        "WRITE",
+        "DOWNLOAD",
+        "SHOW_MODAL",
+        "CUSTOM_UI",
+        "NETWORK"
+      ]
+    }
+  ],
+  "shapeLibraries": [],
+  "oauthProviders": []
+}
