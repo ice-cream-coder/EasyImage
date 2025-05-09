@@ -1,11 +1,7 @@
 # EasyImage
 
-A simple and efficient image processing tool.
+This is a Lucid Spark extension that allows you to generate AI images and add them directly to the canvas within Lucid Spark.
 
 ## Description
 
-EasyImage is a tool designed to make image processing tasks easier and more accessible.
-
-## Getting Started
-
-More details coming soon... 
+This tool combines Lucent Spark's extension API with OpenAI's REST API to generate images and then add them directly to the canvas.
